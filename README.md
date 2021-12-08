@@ -1,6 +1,6 @@
 # MedEdge: Accelerating Object Detection in Medical Images with Edge-Based Distributed Inference
 
-<img src="data/MedEdge.pdf" alt="MedEdge.pdf" />
+<img src="data/MedEdge.png" alt="MedEdge.png" />
 
 
 MedEdge is a framework to accelerate object detection of [Scaled-YOLOv4](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html) by leveraging edge computing in medical image analysis. MedEdge applies a distributed inference technique to Scaled-YOLOv4 in order to exploit the computation resources of both a local computer and the edge server for rapidly detecting COVID-19 abnormalities in chest radiographs.
